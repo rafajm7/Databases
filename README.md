@@ -11,7 +11,7 @@ Las bases de datos que se han usado son:
 
 Para cada una de las bases de datos anteriores, se seguirá la siguiente estrategia:
 
-1. Los datos que se usarán son unos ficheros .csv que contienen información sobre la web de StackOverflow en español. Estos se dividen en posts (preguntas o respuestas), usuarios, comentarios, votos y tags. Estos ficheros están en la carpeta principal del proyecto.
+1. Los datos que se usarán son unos ficheros .csv que contienen información sobre la web de StackOverflow en español. Estos se dividen en posts (preguntas o respuestas), usuarios, comentarios, votos y tags. 
 2. Antes de pasar a la realización de los ejercicios, debemos leer estos datos y conformar las estructuras que se consideren necesarias dependiendo de la base de datos en la que estemos.
 3. Una vez leídos los datos, se realizarán una serie de consultas sobre los mismos, y podremos ver cómo cada base de datos es capaz de resolverlas de manera distinta.
 
